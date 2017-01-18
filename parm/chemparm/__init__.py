@@ -8,8 +8,8 @@ Created on Tue Nov 15 13:54:40 2016
 @author: maxwell
 """
 
-__all__ = ['ChemParmFactory']
+__all__ = ['ChemParm']
 
 
-from .chemparm import ChemParmFactory
+from .chemparm import ChemParm
 

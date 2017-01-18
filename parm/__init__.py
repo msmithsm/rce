@@ -8,8 +8,8 @@ Created on Tue Nov 15 13:42:35 2016
 @author: maxwell
 """
 
-__all__ = ['RadParmFactory', 'ChemParmFactory']
+__all__ = ['ChemParm', 'LWParm', 'SWParm']
 
-from  parm.radparm import RadParmFactory
-from  parm.chemparm import ChemParmFactory
+from  .radparm import LWParm, SWParm
+from  .chemparm import ChemParm
 

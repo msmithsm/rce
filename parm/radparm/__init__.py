@@ -8,8 +8,7 @@ Created on Tue Nov 15 13:08:32 2016
 @author: maxwell
 """
 
-__all__ = ['RadParmFactory']
+__all__ = ['LWParm','SWParm']
 
-from .radparm import RadParmFactory
-
+from .radparm import LWParm, SWParm
 

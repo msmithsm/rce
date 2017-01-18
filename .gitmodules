@@ -1,0 +1,3 @@
+[submodule "radiation/fupy"]
+	path = radiation/fupy
+	url = git@github.com:msmithsm/fupy.git

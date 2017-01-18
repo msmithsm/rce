@@ -12,4 +12,11 @@
 __pycache__
 *.py[oc]
 
+# log from rad models
+log
 
+# images can be remade
+img/**
+
+# saved numpy arrays (program state)
+ndout/** 
